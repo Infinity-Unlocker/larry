@@ -1,0 +1,25 @@
+#CPABUILD_MODAL_CONTAINER .cpabuildmodal-header {
+    border-bottom: 1px solid #e5e5e5;
+}
+#CPABUILD_MODAL_CONTAINER #CPABUILDMODALFOOTER {
+    display:none
+}
+#CPABUILD_MODAL_CONTAINER #CPABUILDMODALCONTENT{
+    background-size:100% 100% !important;
+}
+#CPABUILD_MODAL_CONTAINER #CPABUILDMODALCONTENT {
+    background:white;
+}
+#CPABUILD_MODAL_CONTAINER #CPABUILD_MODAL {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#CPABUILD_MODAL_CONTAINER #CPABUILDMODALTITLE {
+    display: none;
+}
+#CPABUILD_MODAL_CONTAINER .fa {
+}
+#CPABUILD_MODAL_CONTAINER #CPABUILDMODALCONTENT {
+    width: 0;
+    border: none;
+}
